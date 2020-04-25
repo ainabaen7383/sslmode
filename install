@@ -38,9 +38,9 @@ rm master.zip
 vps="aneka";
 
 if [[ $vps = "zvur" ]]; then
-	source="https://raw.githubusercontent.com/sslmode/sslmode/master/tools"
+	source="https://raw.githubusercontent.com/ainabaen7383/sslmode/master/tools"
 else
-	source="https://raw.githubusercontent.com/sslmode/sslmode/master"
+	source="https://raw.githubusercontent.com/ainabaen7383/sslmode/master"
 fi
 
 clear
